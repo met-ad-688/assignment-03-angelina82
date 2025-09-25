@@ -1,1 +1,3 @@
 data/lightcast_job_postings.csv
+.venv/
+spark-*.tgz
